@@ -1,6 +1,6 @@
 # GrabadorMultimedia
 
-Esta aplicaion es para **Andoid** funcioa grabando ya sea:
+Esta aplicaion es para **Android** funcioa grabando ya sea:
 
 -Audio
 -Video
