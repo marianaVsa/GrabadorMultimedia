@@ -70,6 +70,6 @@ El ejecutable firmado (.apk) se encuentra disponible en la sección de **Release
 
 [Liga correctamente tu link de releases en la siguiente sección]
 
-1.  Ve a la sección "Releases" (o haz clic [aquí](link_a_tus_releases)).
+1.  Ve a la sección "Releases" (o haz clic [aquí]([link_a_tus_releases](https://github.com/MireyaSilvano21/AppsMovilesIntegradora/releases/tag/v1.0.0))).
 2.  Descarga el archivo `.apk` de la última versión.
 3.  Instálalo en tu dispositivo Android (asegúrate de permitir la instalación de orígenes desconocidos).
