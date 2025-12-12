@@ -11,9 +11,9 @@
 
 | Nombre Completo | Rol / Tareas Principales | Usuario GitHub |
 | :--- | :--- | :--- |
-| [Mireya Silvano] | [Ej. UI Design, Repositorio] | @usuario1 |
-| [Usiel Servin] | [Ej. Backend, Retrofit] | @usuario2 |
-| [Mariana Villafaña] | [Ej. Sensores, Lógica] | @usuario3 |
+| [Mireya Betzaida Silvano Martínez] | [Design, Repositorio] | @MireyaSilvano21 |
+| [Usiel Shamed Servín Hernández] | [Backend, Retrofit] | @Usiel-Curt |
+| [Julia Mariana Villafaña Salazar] | [Repositorio, Lógica] | @marianaVsa |
 
 ---
 
@@ -43,11 +43,14 @@ Este proyecto ha sido desarrollado siguiendo estrictamente los lineamientos de l
     * **DELETE:** [Se elimina un elemento almacenado en la API.]
 * **Sensor Integrado:** [Sensor de proximidad]
     * *Uso:* [El sensor permite controlar la reproducción de música sin necesidad de tocar la pantalla:
+
+
 -Sensor cubierto → Pausar la música
 
 -Sensor descubierto → Reanudar la reproducción
 
-Esto crea una experiencia fluida y útil especialmente para actividades donde no se puede interactuar directamente con el dispositivo.]
+Esto crea una experiencia fluida y útil especialmente para actividades donde no se puede interactuar directamente con el dispositivo.
+]
 
 ---
 
